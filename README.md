@@ -1,8 +1,11 @@
 #Template for backbone/react app
 
 ##Installation
-bower update
+```shell
+bower update 
 npm update
+```
 
-grunt build – task to build prject
-grunt – watch enabled
+grunt build – build project
+
+grunt – watch for changes and rebuild
