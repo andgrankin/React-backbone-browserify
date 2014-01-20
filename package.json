@@ -1,0 +1,21 @@
+{
+  "name": "react-backbone-browserify",
+  "version": "0.0.0",
+  "description": "React, backbone, browserify, grunt",
+  "main": "www/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grankin Andrey",
+  "license": "ISC",
+  "dependencies": {
+    "react-tools": "~0.8.0"
+  },
+  "devDependencies": {
+    "grunt-react": "~0.6.0",
+    "grunt-browserify": "~1.3.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
